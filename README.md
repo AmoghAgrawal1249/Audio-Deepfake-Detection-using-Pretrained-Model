@@ -105,12 +105,12 @@ pip install -r requirements.txt
 
 ### 3️⃣ Train the Model
 ```bash
-python src/train.py
+python train.py
 ```
 
 ### 4️⃣ Evaluate the Model
 ```bash
-python src/evaluate.py
+python evaluate.py
 ```
 
 ---
