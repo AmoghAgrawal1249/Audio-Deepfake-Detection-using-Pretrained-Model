@@ -119,14 +119,13 @@ python src/evaluate.py
 
 ```
 Audio-Deepfake-Detection-using-Pretrained-Model/
-│── data/                     # Dataset directory (not included in repo)
-│── src/                       # Main source code
-│   ├── data_loader.py         # Handles dataset loading 
-│   ├── preprocess.py          # Handles dataset preprocessing 
-│   ├── train.py               # Training script
-│   ├── evaluate.py            # Model evaluation script
-│── requirements.txt           # Dependencies
-│── README.md                  # Documentation
+│── data/                  # Dataset directory (not included in repo)
+│── data_loader.py         # Handles dataset loading 
+│── preprocess.py          # Handles dataset preprocessing 
+│── train.py               # Training script
+│── evaluate.py            # Model evaluation script
+│── requirements.txt       # Dependencies
+│── README.md              # Documentation
 ```
 
 ---
