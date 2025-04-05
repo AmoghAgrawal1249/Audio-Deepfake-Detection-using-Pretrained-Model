@@ -121,7 +121,6 @@ python src/evaluate.py
 Audio-Deepfake-Detection-using-Pretrained-Model/
 │── data/                     # Dataset directory (not included in repo)
 │── src/                       # Main source code
-│   ├── __init__.py
 │   ├── data_loader.py         # Handles dataset loading and preprocessing
 │   ├── model.py               # Defines the model architecture
 │   ├── train.py               # Training script
