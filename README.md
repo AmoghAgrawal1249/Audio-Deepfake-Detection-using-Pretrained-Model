@@ -149,5 +149,5 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 For any questions, feel free to open an **issue** or reach out!
 
-📧 Email: [your.email@example.com](mailto:amogh.trex@gmail.com)  
-🔗 GitHub: [github.com/YOUR_USERNAME](https://github.com/AmoghAgrawal1249)  
+📧 Email: [amogh.trex@gmail.com](mailto:amogh.trex@gmail.com)  
+🔗 GitHub: [https://github.com/AmoghAgrawal1249](https://github.com/AmoghAgrawal1249)  
