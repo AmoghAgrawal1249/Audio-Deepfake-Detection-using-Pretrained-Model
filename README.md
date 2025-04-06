@@ -2,6 +2,7 @@
 
 This project aims to **detect AI-generated deepfake audio** using a **pretrained EfficientNet-based model** on spectrograms extracted from the **ASVspoof dataset**. The model classifies audio as either **Bonafide (real)** or **Spoof (fake)**.
 
+The report of this project can be found here: [Report Link](https://github.com/AmoghAgrawal1249/Audio-Deepfake-Detection-using-Pretrained-Model/blob/main/Report.pdf)
 ---
 
 ## 📌 Table of Contents
